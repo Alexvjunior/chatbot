@@ -1,0 +1,5 @@
+flake8==6.1.0
+isort==5.13.2
+openai==0.28.0
+python-dotenv==1.0.0
+safety==2.3.5
